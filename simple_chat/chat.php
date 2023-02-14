@@ -57,9 +57,9 @@ if(isset($_SESSION['connected']))
 	</div>
   <footer>
   	<div class="link-column">
-      <a href="" target="_blank">» Github</a>
+      <a href="https://github.com/Yuyuko1337/ajax-php-chat/" target="_blank">» Github</a>
 	  <br>
-	  <a href="" target="_blank">» yuyuko.ovh</a>
+	  <a href="https://yuyuko.ovh/" target="_blank">» yuyuko.ovh</a>
 	  <br>
 	  <br>
     </div>
