@@ -6,7 +6,7 @@ $username = htmlspecialchars("root");
 $password = htmlspecialchars("");
 
 // domain
-$domain = htmlspecialchars("http://localhost/");
+$domain = $_SERVER['HTTP_HOST'];
 ?>
 
 <?php
